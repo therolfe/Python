@@ -5,15 +5,15 @@ For this collection of Examples I have chosen to use local Irish datasets for an
 demonstrate my abilities in the areas of Machine Learning, Graphing and Data Analysis using Python.
 
 
-Things to come 
-
-•	Use matplotlib and seaborn for data visualizations
-•	Use plotly for interactive visualizations
-•	Machine Learning with SciKit Learn, including:
-•	Linear Regression
-•	K Nearest Neighbours
-•	K Means Clustering
-•	Decision Trees
-•	Random Forests
+Things to come<br><br> 
+<br>
+•	Use matplotlib and seaborn for data visualizations<br><br>
+•	Use plotly for interactive visualizations<br><br>
+•	Machine Learning with SciKit Learn, including:<br><br>
+•	Linear Regression<br><br>
+•	K Nearest Neighbours<br><br>
+•	K Means Clustering<br><br>
+•	Decision Trees<br><br>
+•	Random Forests<br><br>
 
 
