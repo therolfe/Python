@@ -7,13 +7,14 @@ demonstrate my abilities in the areas of Machine Learning, Graphing and Data Ana
 
 Things to come<br><br> 
 <br>
+•	<ah ref='https://github.com/therolfe/Python/blob/master/Decision%20Trees.ipynb'>Decision Trees</a><br><br>
 •	Use matplotlib and seaborn for data visualizations<br><br>
 •	Use plotly for interactive visualizations<br><br>
 •	Machine Learning with SciKit Learn, including:<br><br>
 •	Linear Regression<br><br>
 •	K Nearest Neighbours<br><br>
 •	K Means Clustering<br><br>
-•	Decision Trees<br><br>
+
 •	Random Forests<br><br>
 
 
