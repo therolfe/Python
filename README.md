@@ -6,8 +6,7 @@ For this collection of examples I have chosen to use local Irish datasets for an
 <B>Posted Notebooks</B><br><br>
 • <a href='https://github.com/therolfe/Python/blob/master/linear%2520regression%2520in%2520python%5B1%5D.ipynb'>Linear Regression</a><br>
 • <a href='https://github.com/therolfe/Python/blob/master/Decision%20Trees.ipynb'>Decision Trees</a><br><br>
-•	<a href="https://github.com/therolfe/Python/blob/master/Nasdaq%20stock%20analysis%20-%20J%20Rolfe.ipynb">Nasdaq Stock Analysis</a><br>
-Things to come<br><br>  
+•	<a href="https://github.com/therolfe/Python/blob/master/Nasdaq%20stock%20analysis%20-%20J%20Rolfe.ipynb">Nasdaq Stock Analysis</a><br><br><b>Things to come</b><br><br>  
 •	Machine Learning with SciKit Learn, including:<br><br>
 •	Use matplotlib and seaborn for data visualizations<br><br>
 •	K Nearest Neighbours<br><br>
