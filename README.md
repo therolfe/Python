@@ -12,7 +12,6 @@ For this collection of examples I have chosen to use local Irish datasets for an
 •	K Nearest Neighbours<br>
 •	NumPy<br>
 •	Polynomial Regression<br>
-•	K Means Clustering<br>
 •	Random Forests<br>
 •	NTLK - code to screen Names and other sensitive data from text<br>
 •	Recommender Systems<br>
