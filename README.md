@@ -8,7 +8,6 @@ For this collection of examples I have chosen to use local Irish datasets for an
 • <a href='https://github.com/therolfe/Python/blob/master/Decision%20trees%20and%20Random%20Forests%20-%20will%20it%20rain%20in%20Dun%20Laoghaire.ipynb'>Decision Trees and Random forests: Will it rain?</a><br>
 • <a href='https://github.com/therolfe/Python/blob/master/Recommender%20System%20using%20Amazon%20Data.ipynb'>Creating a Recommender system based upon Amazon review data</a><br>
 • <a href='https://github.com/therolfe/Python/blob/master/k%20means%20clustering%20with%20online%20retail%20data.ipynb'>K Means Clustering with Online retail data - a practical example</a><br>
-
 •	<a href="https://github.com/therolfe/Python/blob/master/Nasdaq%20stock%20analysis%20-%20J%20Rolfe.ipynb">Nasdaq Stock Analysis</a><br>
 •	NTLK - code to screen Names and other sensitive data from text<br>
 <br> <b>Things to come</b><br>  
