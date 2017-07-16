@@ -1,5 +1,5 @@
 # Python
-A collection of Machine Learning examples using python - This is a work in progress and is being updated on a regular basis - Last updated on 14 July.
+A collection of Machine Learning examples using python - This is a work in progress and is being updated on a regular basis - Last updated on 16 July.
 
 For this collection of examples I have chosen to use local Irish datasets for analysis whenever possible. I also will not use the standard classic teaching examples as these have been well documented online todate.  I have created this repository so that I can demonstrate my abilities in the areas of Machine Learning, Charting, Data Analysis amd minipulation using Python.
 
