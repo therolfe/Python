@@ -19,7 +19,8 @@ For this collection of examples I have chosen to use local Irish datasets for an
 •	Polynomial Regression<br>
 •	NTLK - code to screen Names and other sensitive data from text<br>
 
-<B>Completed Online Courses</B><br><br>
+<B>Completed Online Courses</B><br>
+I take courses in my own time every few weeks to keep building my knowledge base. Below are links to the courses I have completed and inspired many of the notebooks seen on this Github.<br>
 •	<a href='https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/overview'>Machine learning and data science in python</a>-<a href='https://www.udemy.com/certificate/UC-0IJEZ958/'>Completion Cert</a><br>
 •	<a href='https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/overview'>Data Science and Machine Learning with Python - Hands On</a>-<a href='https://www.udemy.com/certificate/UC-8P1EEODG/'>Completion Cert</a><br>
 •	<a href='https://www.safaribooksonline.com/learning-paths/learning-path-python/9781491987384/'>Learning Path: Python for Data</a><br>
