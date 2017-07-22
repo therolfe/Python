@@ -20,5 +20,8 @@ For this collection of examples I have chosen to use local Irish datasets for an
 •	NTLK - code to screen Names and other sensitive data from text<br>
 
 <B>Completed Online Courses</B><br><br>
-•	<a href='https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/overview'>Machine learning and data science in python</a>-<ah ref='https://www.udemy.com/certificate/UC-0IJEZ958/'>Completion Cert</a><br>
+•	<a href='https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/overview'>Machine learning and data science in python</a>-<a href='https://www.udemy.com/certificate/UC-0IJEZ958/'>Completion Cert</a><br>
+•	<a href='https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/overview'>Data Science and Machine Learning with Python - Hands On</a>-<a href='https://www.udemy.com/certificate/UC-8P1EEODG/'>Completion Cert</a><br>
+•	<a href='https://www.safaribooksonline.com/learning-paths/learning-path-python/9781491987384/'>Learning Path: Python for Data</a><br>
+•	<a href='https://www.udemy.com/taming-big-data-with-mapreduce-and-hadoop/learn/v4/content'>Taming Big Data with MapReduce and Hadoop - Hands On!</a>-Completion Cert TBC<br>
 
