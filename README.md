@@ -14,7 +14,6 @@ For this collection of examples I have chosen to use local Irish datasets for an
 •	<a href="https://github.com/therolfe/Python/blob/master/Naive%20Bayes%20-%20using%20nltk%20for%20move%20review%20sentiment%20analysis.ipynb">Naive Bayes - Sentiment Anlaysis of movie reviews using the NTLK package</a><br>
 <br> <b>Things to come</b><br>  
 •	Use matplotlib and seaborn for data visualizations<br>
-•	K Nearest Neighbours<br>
 •	NumPy<br>
 •	Polynomial Regression<br>
 •	NTLK - code to screen Names and other sensitive data from text<br>
