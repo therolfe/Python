@@ -13,7 +13,7 @@ For this collection of examples I have chosen to use local Irish datasets for an
 •	<a href="https://github.com/therolfe/Python/blob/master/Nasdaq%20stock%20analysis%20-%20J%20Rolfe.ipynb">Nasdaq Stock Share Price Analysis - Google, Netflix, Amazon, Facebook, Tesla Motors and Twitter</a><br>
 •	<a href="https://github.com/therolfe/Python/blob/master/Naive%20Bayes%20-%20using%20nltk%20for%20move%20review%20sentiment%20analysis.ipynb">Naive Bayes - Sentiment Anlaysis of movie reviews using the NTLK package</a><br>
 •	<a href="https://github.com/therolfe/Python/blob/master/Classification%20of%20the%20MNIST%20dataset%20using%20Scikit-Learn%20and%20Python.ipynb">Classification of the MNIST dataset using Scikit-Learn and Python</a><br>
-https://github.com/therolfe/Python/blob/master/Classification%20of%20the%20MNIST%20dataset%20using%20Scikit-Learn%20and%20Python.ipynb
+
 <br> <b>Things to come</b><br>  
 •	Use matplotlib and seaborn for data visualizations<br>
 •	NumPy<br>
