@@ -7,7 +7,7 @@ For this collection of examples I have chosen to use local Irish datasets for an
 • <a href='https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb'>Linear Regression - Predicting a persons probable weight based on thier height</a><br>
 • <a href='https://github.com/therolfe/Python/blob/master/Logistic%20Regression%20-%20LC.ipynb'>Logistic Regression - Looking at Leaving cert points and collage admission</a><br>
 • <a href='https://github.com/therolfe/Python/blob/master/Decision%20trees%20and%20Random%20Forests%20-%20will%20it%20rain%20in%20Dun%20Laoghaire.ipynb'>Decision Trees and Random forests: Will it rain in Dun Laoghaire?</a><br>
-• <a href='https://github.com/therolfe/Python/blob/master/AB%20Testing.ipynb'>A/B Testing, T-Scores and P-Values - comparing two data sets for experimental purposes</a><br>
+• <a href='https://github.com/therolfe/Python/blob/master/AB%20Testing.ipynb'>A/B Testing, T-Scores and P-Values - comparing two data sets for experimental purposes in python</a><br>
 • <a href='https://github.com/therolfe/Python/blob/master/Recommender%20System%20using%20Amazon%20Data.ipynb'>Creating a Recommender system based upon Amazon review data</a><br>
 • <a href='https://github.com/therolfe/Python/blob/master/k%20means%20clustering%20with%20online%20retail%20data.ipynb'>K Means Clustering with Online retail data - a practical example</a><br>
 • <a href='https://github.com/therolfe/Python/blob/master/KNN_KNearest_Neighbors_with_Online_retail_data.ipynb'>KNN - K Nearest Neighbors with Online retail data</a><br>
