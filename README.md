@@ -1,7 +1,7 @@
 # Python
 A collection of Machine Learning examples using python - This is a work in progress and is being updated on a regular basis - Last updated on 18 July.
 
-For this collection of examples, I have chosen to use local Irish datasets for analysis whenever possible. I have tried not to use the standard classic teaching examples as these have been very well documented online to date - and hence easily replicated.  I  have created this repository so that I can demonstrate my abilities in the areas of Machine Learning, Charting, Data Analysis and manipulation using Python.. 
+For this collection of examples, I have chosen to use local Irish datasets for analysis whenever possible. I have tried not to use the standard classic teaching examples as these have been very well documented online to date - and hence easily replicated.  <br>I  have created this repository so that I can demonstrate my abilities in the areas of Machine Learning, Charting, Data Analysis and manipulation using Python.. 
 
 <B>Posted Notebooks</B><br><br>
 • <a href='https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb'>Linear Regression - Predicting a persons probable weight based on thier height</a><br>
