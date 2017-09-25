@@ -1,7 +1,7 @@
 # Python
 A collection of Machine Learning examples using python - This is a work in progress and is being updated on a regular basis - Last updated on 18 July.
 
-For this collection of examples I have chosen to use local Irish datasets for analysis whenever possible. I also will not use the standard classic teaching examples as these have been well documented online todate.  I  have created this repository so that I can demonstrate my abilities in the areas of Machine Learning, Charting, Data Analysis and manipulation using Python.. 
+For this collection of examples, I have chosen to use local Irish datasets for analysis whenever possible. I have tried not to use the standard classic teaching examples as these have been very well documented online to date - and hence easily replicated.  I  have created this repository so that I can demonstrate my abilities in the areas of Machine Learning, Charting, Data Analysis and manipulation using Python.. 
 
 <B>Posted Notebooks</B><br><br>
 • <a href='https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb'>Linear Regression - Predicting a persons probable weight based on thier height</a><br>
@@ -15,11 +15,7 @@ For this collection of examples I have chosen to use local Irish datasets for an
 •	<a href="https://github.com/therolfe/Python/blob/master/Naive%20Bayes%20-%20using%20nltk%20for%20move%20review%20sentiment%20analysis.ipynb">Naive Bayes - Sentiment Anlaysis of movie reviews using the NTLK package</a><br>
 •	<a href="https://github.com/therolfe/Python/blob/master/Classification%20of%20the%20MNIST%20dataset%20using%20Scikit-Learn%20and%20Python.ipynb">Classification of the MNIST dataset using Scikit-Learn and Python</a><br>
 
-<br> <b>Things to come</b><br>  
-•	Use matplotlib and seaborn for data visualizations<br>
-•	NumPy<br>
-•	Polynomial Regression<br>
-•	NTLK - code to screen Names and other sensitive data from text<br>
+<br>
 
 <B>Completed Online Courses</B><br>
 I take courses in my own time every few weeks to keep building my knowledge base. Below are links to the courses I have completed they inspired many of the notebooks seen on this Github.<br><br>
@@ -30,3 +26,8 @@ I take courses in my own time every few weeks to keep building my knowledge base
 •	<a href='https://www.udemy.com/cluster-analysis-unsupervised-machine-learning-python/learn/v4/overview'>Cluster Analysis and Unsupervised Machine Learning in Python</a>-<a href='https://www.udemy.com/certificate/UC-3FIS181N/'>Completion Cert</a><br>
 
 
+<br> <b>Things to come</b><br>  
+•	Use matplotlib and seaborn for data visualizations<br>
+•	NumPy<br>
+•	Polynomial Regression<br>
+•	NTLK - code to screen Names and other sensitive data from text<br>
