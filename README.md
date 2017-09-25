@@ -25,6 +25,10 @@ I take courses in my own time every few weeks to keep building my knowledge base
 •	<a href='https://www.udemy.com/taming-big-data-with-mapreduce-and-hadoop/learn/v4/content'>Taming Big Data with MapReduce and Hadoop - Hands On!</a>-<a href='https://www.udemy.com/certificate/UC-ETCE2688/'>Completion Cert</a><br>
 •	<a href='https://www.udemy.com/cluster-analysis-unsupervised-machine-learning-python/learn/v4/overview'>Cluster Analysis and Unsupervised Machine Learning in Python</a>-<a href='https://www.udemy.com/certificate/UC-3FIS181N/'>Completion Cert</a><br>
 
+<B>Current Online Courses</B><br>
+At present I taking courses in Tablelu as i think this is an important skill set to aquire.<br><br>
+•	<a href='https://www.udemy.com/tableau10/learn/v4/overview'>Tableau 10 A-Z: Hands-On Tableau Training For Data Science</a><br>
+•	<a href='https://www.udemy.com/tableau10-advanced/learn/v4/overview'>Tableau 10 Advanced Training: Master Tableau in Data Science</a><br>
 
 <br> <b>Things to come</b><br>  
 •	Use matplotlib and seaborn for data visualizations<br>
