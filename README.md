@@ -28,10 +28,11 @@ I take courses in my own time every few weeks to keep building my knowledge base
 <B>Current Online Courses</B><br>
 At present I taking courses in Tablelu as i think this is an important skill set to aquire.<br><br>
 •	<a href='https://www.udemy.com/tableau10/learn/v4/overview'>Tableau 10 A-Z: Hands-On Tableau Training For Data Science</a><br>
-•	<a href='https://www.udemy.com/tableau10-advanced/learn/v4/overview'>Tableau 10 Advanced Training: Master Tableau in Data Science</a><br>
+•	<a href='https://www.udemy.com/tableau10-advanced/learn/v4/overview'>Tableau 10 Advanced Training: Master Tableau in Data Science</a>
 
 <br> <b>Things to come</b><br>  
 •	Use matplotlib and seaborn for data visualizations<br>
+•	TensorFlow for Deep Learning with Python<br>
 •	NumPy<br>
 •	Polynomial Regression<br>
 •	NTLK - code to screen Names and other sensitive data from text<br>
