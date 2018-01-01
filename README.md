@@ -30,7 +30,7 @@ I take courses in my own time every few weeks to keep building my knowledge base
 
 <B>Completed Online Courses - SQL and BI Tools</B><br>
 I have complpted a course ion Tableau as i think this is an important skill set to aquire.<br><br>
-•	<a href='https://www.udemy.com/tableau10-advanced/learn/v4/overview'>Tableau 10 Advanced Training: Master Tableau in Data Science</a><br>-<a href='https://www.udemy.com/certificate/UC-EPVZQNLO/'>Completion Cert</a>
+•	<a href='https://www.udemy.com/tableau10-advanced/learn/v4/overview'>Tableau 10 Advanced Training: Master Tableau in Data Science</a><br>-<a href='https://www.udemy.com/certificate/UC-EPVZQNLO/'>Completion Cert</a><br><br>
 I have also started to learn the TSQL / SSIS Miscorsoft Stack<br><br>
 •	<a href='https://www.udemy.com/become-an-sql-developer-learn-ssrs-ssis-ssast-sqldw/learn/v4/overview'>Learn SQL Developer Skills from Scratch(SSRS, SSIS, SSAS,T-SQL,Data Warehouse(DW))</a>-<a href='https://www.udemy.com/certificate/UC-8ZK4OXT0/'>Completion Cert</a><br>
 
