@@ -3,7 +3,7 @@ A collection of Machine Learning examples using python - This is a work in progr
 
 For this collection of examples, I have chosen to use local Irish datasets for analysis whenever possible. I have tried not to use the standard classic teaching examples as these have been very well documented online to date - and hence easily replicated. <br> <br>I  have created this repository so that I can demonstrate my abilities in the areas of Machine Learning, Charting, Data Analysis and manipulation using Python.. 
 
-<B>Posted Notebooks</B><br><br>
+<B>Posted iPython Notebooks</B><br><br>
 • <a href='https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb'>Linear Regression - Predicting a persons probable weight based on thier height</a><br>
 • <a href='https://github.com/therolfe/Python/blob/master/Logistic%20Regression%20-%20LC.ipynb'>Logistic Regression - Looking at Leaving cert points and collage admission</a><br>
 • <a href='https://github.com/therolfe/Python/blob/master/Decision%20trees%20and%20Random%20Forests%20-%20will%20it%20rain%20in%20Dun%20Laoghaire.ipynb'>Decision Trees and Random forests: Will it rain in Dun Laoghaire?</a><br>
