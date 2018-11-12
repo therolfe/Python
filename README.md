@@ -8,12 +8,12 @@ For this collection of examples, I have chosen to use local Irish datasets for a
 <table class="tg" width=2000>
   <tr width=2000 height =100>
     <td width=2000>
-      <b>Linear Regression</b><br>
-      <img src = 'https://raw.githubusercontent.com/therolfe/Data_files/master/Lregression.png' width=300 hieght=300><br><br>Predicting a persons probable weight based on their height. Using a training data set to create a simple linear regression model                                      
+      <b>Linear Regression - Height & Weight</b><br>
+      <img src = 'https://raw.githubusercontent.com/therolfe/Data_files/master/Lregression.png' width=300 hieght=300>Predicting a persons probable weight based on their height. Using a training data set to create a simple linear regression model                                      
     <br><br>
     <a href='https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb'>Jupiter Notebook</a></th>
   </td></tr>
-  <tr>
+  <tr width=2000 height =20 bgcolor="#dcdee2">
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -22,6 +22,7 @@ For this collection of examples, I have chosen to use local Irish datasets for a
   <tr>
     <td class="tg-0lax"></td>
   </tr>
+  <tr width = >  </tr>
 </table>
 
 
