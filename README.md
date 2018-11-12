@@ -7,7 +7,7 @@ For this collection of examples, I have chosen to use local Irish datasets for a
 
 <table class="tg" width=2000>
   <tr width=2000>
-    <td>
+    <td width=2000>
     Heading Goes here                                      
     <br><br>Subtext Goes Here<br><br>
     Link goes here 
