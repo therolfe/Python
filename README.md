@@ -7,11 +7,13 @@ For this collection of examples, I have chosen to use local Irish datasets for a
 
 <table class="tg" width=2000>
   <tr width=2000>
+    <td>
     Heading Goes here                                      
     <br><br>Subtext Goes Here<br><br>
     Link goes here 
     <a href="https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb">Link</a></th>
-  </tr>
+  
+  </td></tr>
   <tr>
     <td class="tg-0lax"></td>
   </tr>
