@@ -5,8 +5,8 @@ For this collection of examples, I have chosen to use local Irish datasets for a
 
 <B>Posted iPython Notebooks</B><br><br>
 
-<table class="tg" width=2000 border="0">
-  <tr width=2000 height =100>
+<table  width=2000 border="0">
+  <tr width=2000 height =100 border="0">
     <td width=500>
       <b>Linear Regression - Height & Weight</b><br>
       <img src = 'https://raw.githubusercontent.com/therolfe/Data_files/master/Lregression.png' width=300 hieght=300></td>
@@ -14,7 +14,7 @@ For this collection of examples, I have chosen to use local Irish datasets for a
     <br><br>
     <a href='https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb'>Jupiter Notebook</a></th>
   </td></tr>
-  <tr width=2000 height =10 bgcolor="#c6c9ce" >
+  <tr width=2000 height =10 bgcolor="#c6c9ce" border="0">
   <td rowspan = "2"> </td><td rowspan = "2"> </td>
   </tr>
 </table>
