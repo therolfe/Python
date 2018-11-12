@@ -8,11 +8,9 @@ For this collection of examples, I have chosen to use local Irish datasets for a
 <table class="tg" width=2000>
   <tr width=2000 height =100>
     <td width=2000>
-      <b>Linear Regression</b>
-      <b>Predicting a persons probable weight based on their height</b>                                      
+      <b>Linear Regression</b><br>
+      Predicting a persons probable weight based on their height. Using a training data set to create a simple linear regression model                                      
     <br><br>
-    <br>
-    Link goes here 
     <a href='https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb'>Jupiter Notebook</a></th>
   </td></tr>
   <tr>
