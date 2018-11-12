@@ -5,7 +5,7 @@ For this collection of examples, I have chosen to use local Irish datasets for a
 
 <B>Posted iPython Notebooks</B><br><br>
 
-<table class="tg" width=2000>
+<table class="tg" width=2000 border="0">
   <tr width=2000 height =100>
     <td width=2000>
       <b>Linear Regression - Height & Weight</b><br>
