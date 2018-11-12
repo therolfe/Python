@@ -13,8 +13,9 @@ For this collection of examples, I have chosen to use local Irish datasets for a
     <br><br>
     <a href='https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb'>Jupiter Notebook</a></th>
   </td></tr>
-  <tr width=2000 height =20 bgcolor="#c6c9ce" border=0>
-    <td class="tg-0lax"></td>
+  <tr>
+  <td width=2000 height =20 bgcolor="#c6c9ce" border=0>
+ </td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
