@@ -4,16 +4,10 @@ A collection of Machine Learning examples using python - This is a work in progr
 For this collection of examples, I have chosen to use local Irish datasets for analysis whenever possible. I have tried not to use the standard classic teaching examples as these have been very well documented online to date - and hence easily replicated. <br> <br>I  have created this repository so that I can demonstrate my abilities in the areas of Machine Learning, Charting, Data Analysis and manipulation using Python.. 
 
 <B>Posted iPython Notebooks</B><br><br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-d57p{font-size:11px;font-family:Tahoma, Geneva, sans-serif !important;;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
-  <tr>
-    <th class="tg-d57p"><span style="font-weight:bold">Heading Goes here </span><br><span style="font-weight:bold">Subtext Goes Here</span><br><span style="font-weight:bold">Link goes here </span><a href="https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb">Link</a></th>
+  <tr width='100%'>
+    <th class="tg-d57p"><span style="font-weight:bold">Heading Goes here </span><br><br><span style="font-weight:bold">Subtext Goes Here</span><br><br><span style="font-weight:bold">Link goes here </span><a href="https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb">Link</a></th>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
