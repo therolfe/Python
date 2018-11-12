@@ -7,7 +7,7 @@ For this collection of examples, I have chosen to use local Irish datasets for a
 
 <table class="tg" width=2000>
   <tr width=2000>
-    <th class="tg-d57p"><span style="font-weight:bold">Heading Goes here </span><br><br><span style="font-weight:bold">Subtext Goes Here</span><br><br><span style="font-weight:bold">Link goes here </span><a href="https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb">Link</a></th>
+    <th class="tg-d57p"><span style="font-weight:bold">Heading Goes here                                      </span><br><br><span style="font-weight:bold">Subtext Goes Here</span><br><br><span style="font-weight:bold">Link goes here </span><a href="https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb">Link</a></th>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
