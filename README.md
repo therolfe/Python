@@ -15,7 +15,8 @@ For this collection of examples, I have chosen to use local Irish datasets for a
     <a href='https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb'>Jupiter Notebook</a></th>
   </td></tr>
   <tr width=2000 height =10 bgcolor="#c6c9ce" >
-  <td rowspan = 2></td>
+  <td rowspan = 2> </td>
+  </tr>
 </table>
 
 
