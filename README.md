@@ -6,13 +6,13 @@ For this collection of examples, I have chosen to use local Irish datasets for a
 <B>Posted iPython Notebooks</B><br><br>
 
 <table class="tg" width=2000>
-  <tr width=2000>
+  <tr width=2000 height =400>
     <td width=2000>
-    Heading Goes here                                      
-    <br><br>Subtext Goes Here<br><br>
+      <b>Predicting a persons probable weight based on their height</b>                                      
+    <br><br>
+    <br>
     Link goes here 
-    <a href="https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb">Link</a></th>
-  
+    <a href='https://github.com/therolfe/Python/blob/master/Linear%20Regression%20in%20Python.ipynb'>Jupiter Notebook</a></th>
   </td></tr>
   <tr>
     <td class="tg-0lax"></td>
