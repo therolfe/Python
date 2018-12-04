@@ -24,7 +24,7 @@ For this collection of examples, I have chosen to use local Irish datasets for a
 </td></tr>  <tr width=100% height =10 bgcolor="#c6c9ce" border="0"></tr>
   <tr width=100% height =100 border="0">    <td width=33%>
       <b>Logistic Regression - Looking at Leaving cert points and collage admission</b><br>
-      <img src = 'https://raw.githubusercontent.com/therolfe/Data_files/master/Lregression.png' width=300 hieght=300></td>
+      <img src = 'https://github.com/therolfe/Data_files/blob/master/coll.png?raw=true' width=300 hieght=300></td>
     <td width=67%>A simple logistic regression in Python that predicts a students chances admission to college based on leaving cert points.<br><br><a href= 'https://github.com/therolfe/Python/blob/master/Logistic%20Regression%20-%20LC.ipynb'>Jupiter Notebook</a></th>
   </td></tr>  <tr width=100% height =10 bgcolor="#c6c9ce" border="0">
   </tr>
