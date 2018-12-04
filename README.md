@@ -29,14 +29,10 @@ For this collection of examples, I have chosen to use local Irish datasets for a
   </td></tr>  <tr width=100% height =10 bgcolor="#c6c9ce" border="0">
   </tr>
    <tr width=100% height =100 border="0">
-    <td width=33%><b>Creating a Recommender system based upon Amazon review data</b><br><img src = 'https://raw.githubusercontent.com/therolfe/Data_files/master/Lregression.png' width=300 hieght=300></td>
+    <td width=33%><b>Creating a Recommender system based upon Amazon review data</b><br><img src = 'https://github.com/therolfe/Data_files/blob/master/rec.png?raw=true' width=300 hieght=300></td>
  <td width=67%>Using Amazon customer review data for musical instruments I created a recommender system that will suggest similar products that other users have rated highly along side the product that is being purchased. This wil then be used to create a 'We think you might like this!' targeted advertisement to the customer.  <br><br><a href= 'https://github.com/therolfe/Python/blob/master/Recommender%20System%20using%20Amazon%20Data.ipynb'>Jupiter Notebook</a></th>
   </td></tr>  <tr width=100% height =10 bgcolor="#c6c9ce" border="0">  </tr>
-<tr width=100% height =100 border="0">
-<td width=33%><b>Creating a Recommender system based upon Amazon review data</b><br><img src = 'https://raw.githubusercontent.com/therolfe/Data_files/master/Lregression.png' width=300 hieght=300></td>
-<td width=100%>Using Amazon customer review data for musical instruments I created a recommender system that will suggest similar products that other users have rated highly along side the product that is being purchased. This wil then be used to create a
-'We think you might like this!' targeted advertisement to the customer.                                               
-<br><br><a href= 'https://github.com/therolfe/Python/blob/master/Recommender%20System%20using%20Amazon%20Data.ipynb'>Jupiter Notebook</a></th></td></tr>  <tr width=100% height =10 bgcolor="#c6c9ce" border="0"></tr> <tr width=100% height =100 border="0">
+ <tr width=100% height =100 border="0">
 <td width=33%><b>K Means Clustering with Online retail data - a practical example</b><br><img src = 'https://raw.githubusercontent.com/therolfe/Data_files/master/Lregression.png' width=300 hieght=300></td><td width=67%>In this notebook we create a labelling system for each customer that allow each customer to be grouped into groups based on a particular measure.         <br><br><a href= 'https://github.com/therolfe/Python/blob/master/k%20means%20clustering%20with%20online%20retail%20data.ipynb'>Jupiter Notebook</a></th> </td></tr>
   <tr width=100% height =10 bgcolor="#c6c9ce" border="0"></tr><tr width=100% height =100 border="0">
 <td width=33%> <b>KNN - K Nearest Neighbours with Online retail data</b><br><img src = 'https://raw.githubusercontent.com/therolfe/Data_files/master/Lregression.png' width=300 hieght=300></td>    <td width=67%>In this notebook we create a labelling system for each customer which allows each customer to be grouped into groups based on the location of a groups center.<br><br><a href= 'https://github.com/therolfe/Python/blob/master/KNN_KNearest_Neighbors_with_Online_retail_data.ipynb'>Jupiter Notebook</a></th></td></tr>  <tr width=100% height =10 bgcolor="#c6c9ce" border="0"></tr>
