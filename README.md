@@ -12,7 +12,7 @@ For this collection of examples, I have chosen to use local Irish datasets for a
   </tr>
   <tr width=100% height =100 border="0">
     <td width=33%><b>A/B Testing, T-Scores and P-Values - comparing two data sets for experimental purposes in python</b><br>
-      <img src = 'https://i.imgur.com/Z54PM9c.png' width=300 height=300></td>
+      <img src = 'https://i.imgur.com/Z54PM9c.png' width=100 height=70></td>
     <td width=67%> Using sample website data we are examining the affects of a new page button design on the flow of traffic on the website. The unit of measurement is determined by clicks on the new button and the old button. The traffic would be recorded as two data sets, the traffic using the old button (control group) and the new traffic using the new button (test group).This data is then analysed to determine the new button effectiveness using the T-values and P-values of the analysis.                                    
  <br><br><a href= 'https://github.com/therolfe/Python/blob/master/AB%20Testing.ipynb'>Jupiter Notebook</a></th>
 </td></tr>
